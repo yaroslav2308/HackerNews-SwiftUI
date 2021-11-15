@@ -14,6 +14,7 @@
 		129510CA2742D2CC006FA7B1 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129510C92742D2CC006FA7B1 /* NetworkManager.swift */; };
 		129510CC2742D42B006FA7B1 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129510CB2742D42B006FA7B1 /* PostData.swift */; };
 		129510CF2742DB54006FA7B1 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129510CE2742DB54006FA7B1 /* DetailView.swift */; };
+		129510D12742E2AA006FA7B1 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129510D02742E2AA006FA7B1 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		129510C92742D2CC006FA7B1 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		129510CB2742D42B006FA7B1 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		129510CE2742DB54006FA7B1 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		129510D02742E2AA006FA7B1 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				129510BC2742CFE3006FA7B1 /* ContentView.swift */,
 				129510CE2742DB54006FA7B1 /* DetailView.swift */,
+				129510D02742E2AA006FA7B1 /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				129510CA2742D2CC006FA7B1 /* NetworkManager.swift in Sources */,
 				129510CC2742D42B006FA7B1 /* PostData.swift in Sources */,
 				129510BD2742CFE3006FA7B1 /* ContentView.swift in Sources */,
+				129510D12742E2AA006FA7B1 /* WebView.swift in Sources */,
 				129510CF2742DB54006FA7B1 /* DetailView.swift in Sources */,
 				129510BB2742CFE3006FA7B1 /* H4XOR_NewsApp.swift in Sources */,
 			);
